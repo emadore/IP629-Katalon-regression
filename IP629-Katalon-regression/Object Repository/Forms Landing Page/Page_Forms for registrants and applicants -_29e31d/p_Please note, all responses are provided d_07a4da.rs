@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Please note, all responses are provided d_07a4da</name>
+   <tag></tag>
+   <elementGuidId>d108b663-e361-4338-bb77-87e1e9ecff31</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//aside[@id='section-2']/p[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(3)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>3ff1f359-718e-418f-87c5-c77c0dd08cb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please note, all responses are provided during hours of operation, Monday to Friday, only.</value>
+      <webElementGuid>53866a32-d8cb-44fa-8ca5-9f10967fdc0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;section-2&quot;)/p[3]</value>
+      <webElementGuid>e4d155cc-f3d5-4a78-8caf-74f8ddf9a50a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//aside[@id='section-2']/p[3]</value>
+      <webElementGuid>9ecb1b68-a769-469d-add4-f3e3bfa083d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[3]</value>
+      <webElementGuid>55f8e4bd-e32c-402a-8c2e-2422172e8ac2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Please note, all responses are provided during hours of operation, Monday to Friday, only.' or . = 'Please note, all responses are provided during hours of operation, Monday to Friday, only.')]</value>
+      <webElementGuid>66e18054-6a89-4c5a-98cd-92af78dcceb5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

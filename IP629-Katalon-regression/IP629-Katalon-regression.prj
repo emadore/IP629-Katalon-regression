@@ -3,7 +3,7 @@
    <description></description>
    <name>IP629-Katalon-regression</name>
    <tag></tag>
-   <UUID>54be07f4-ae68-4f6b-9cf5-63f01c80ca48</UUID>
+   <UUID>b0e8e033-551b-4495-89f4-c85fc0107684</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
    <sourceContent>
@@ -25,5 +25,5 @@
       </systemFolderList>
    </sourceContent>
    <timeStampInProperties>false</timeStampInProperties>
-   <type>WEBUI</type>
+   <type>GENERIC</type>
 </Project>

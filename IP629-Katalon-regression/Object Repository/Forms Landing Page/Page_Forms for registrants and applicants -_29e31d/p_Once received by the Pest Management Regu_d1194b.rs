@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Once received by the Pest Management Regu_d1194b</name>
+   <tag></tag>
+   <elementGuidId>815f6a3f-e49c-4145-8d77-f15d7a6fd58f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//aside[@id='section-2']/p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>b677f729-f2e7-473b-b475-a7ab290269a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Once received by the Pest Management Regulatory Agency (PMRA), an email with the requested PDF form will be sent back to your email address.</value>
+      <webElementGuid>aa0b5931-d543-4d2e-87be-f1b277edec56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;section-2&quot;)/p[2]</value>
+      <webElementGuid>9943a162-4f93-40fd-a6f1-a8198a53c81b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//aside[@id='section-2']/p[2]</value>
+      <webElementGuid>86e759d3-e335-4aba-9d3e-639a9bc998dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>0bc48c0b-3131-4ed7-bdde-b7454fe659ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Once received by the Pest Management Regulatory Agency (PMRA), an email with the requested PDF form will be sent back to your email address.' or . = 'Once received by the Pest Management Regulatory Agency (PMRA), an email with the requested PDF form will be sent back to your email address.')]</value>
+      <webElementGuid>770a4b33-5697-4c23-86dd-76fa13d5616c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
